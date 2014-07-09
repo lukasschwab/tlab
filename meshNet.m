@@ -1,6 +1,5 @@
 function [ adjMatrix,visualNetwork ] = meshNet( rows,cols )
-%UNTITLED3 Summary of this function goes here
-%   Detailed explanation goes here
+%meshNet Summary of this function goes here
 
 % N = number of nodes
 N = rows*cols;
